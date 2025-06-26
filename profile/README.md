@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/fwipng.png" width="300">
+  <img src="/profile/assets/fwipng.png" width="300">
 </p>
 
 # FWI (FedWriters, Inc.)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/profile/assets/fwipng.png" alt="FedWriters, Inc. Logo" width="300">
+  <img src=".github/profile/assets/fwipng.png" width="300">
 </p>
 
 # FWI (FedWriters, Inc.)

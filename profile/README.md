@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fedwriters.com/wp-content/uploads/2023/07/FWI-Logo.png" alt="FedWriters, Inc. Logo" width="300">
+  <img src=".github/profile/assets/fwipng.png" alt="FedWriters, Inc. Logo" width="300">
 </p>
 
 # FWI (FedWriters, Inc.)
@@ -50,8 +50,8 @@ FWI is committed to helping government contractors win more business through inn
 
 Interested in learning more about how FedWriters can support your government contracting needs? Contact us today to schedule a demonstration of our innovative AI tools and services.
 
-[Contact FWI](bd@fedwriters.com)
-[Contact FWI](it@fedwriters.com)
+[Contact FWI BD](bd@fedwriters.com)
+[Contact FWI IT](it@fedwriters.com)
 
 ---
 
